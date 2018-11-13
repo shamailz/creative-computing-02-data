@@ -39,7 +39,7 @@ body {
 .box-1 {
   background-color: #333;
   width: 30.2%;
-  height: 30.2%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -49,7 +49,7 @@ body {
 .box-2 {
   background-color: #777;
   width: 20.9%;
-  height: 20.9%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -59,7 +59,7 @@ body {
 .box-3 {
   background-color: #555;
   width: 25.6%;
-  height: 25.6%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -69,7 +69,7 @@ body {
 .box-4 {
   background-color: #888;
   width: 7%;
-  height: 7%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -79,7 +79,7 @@ body {
 .box-5 {
   background-color: #222;
   width: 7%;
-  height: 7%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -89,7 +89,7 @@ body {
 .box-6 {
   background-color: #444;
   width: 7%;
-  height: 7%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
@@ -99,7 +99,7 @@ body {
 .box-7 {
   background-color: #666;
   width: 2.3%;
-  height: 2.3%;
+  height: 75%;
   color: white;
   display: inline-block;
   vertical-align: top;
