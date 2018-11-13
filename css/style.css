@@ -21,14 +21,11 @@ body {
   width: 100%;
 }
 
-.center {
- 
-}
 
 
 
 .box-content {
-  font-size: 30px;
+  
 }
 
 .box-1 {
@@ -42,11 +39,12 @@ body {
   top: 39%;
   left: 16%;
   transform: translate(-50%,-50%);
+  font-size: 30px;
 }
 
 .box-2 {
   background-color: #777;
-  width: 20.9%;
+  width: 25.6%;
   height: 75%;
   color: white;
   display: inline-block;
@@ -55,11 +53,12 @@ body {
   top: 39%;
   left: 14%;
   transform: translate(-50%,-50%);
+  font-size: 30px;
 }
 
 .box-3 {
   background-color: #555;
-  width: 25.6%;
+  width: 20.9%;
   height: 75%;
   color: white;
   display: inline-block;
@@ -68,6 +67,7 @@ body {
   top: 700%;
   left: 125%;
   transform: translate(-50%,-50%)
+  font-size: 30px;
 }
 
 .box-4 {
