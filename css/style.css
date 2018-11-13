@@ -63,6 +63,7 @@ body {
   height: 75%;
   color: white;
   display: inline-block;
+  vertical-align: top;
   position: relative;
   top: 100%;
   left: 125%;
