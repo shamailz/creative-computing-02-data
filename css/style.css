@@ -55,8 +55,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
 }
 
 .box-3 {
@@ -69,9 +67,7 @@ body {
   position: relative;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
+  transform: translate(-50%,-50%)
 }
 
 .box-4 {
@@ -85,8 +81,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
 }
 
 .box-5 {
@@ -100,8 +94,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
 }
 
 .box-6 {
@@ -115,8 +107,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
 }
 
 .box-7 {
@@ -130,6 +120,4 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
 }
