@@ -65,7 +65,7 @@ body {
   display: inline-block;
   vertical-align: center;
   position: relative;
-  top: 100%;
+  top: 700%;
   left: 125%;
   transform: translate(-50%,-50%)
 }
