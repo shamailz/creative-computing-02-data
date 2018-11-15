@@ -131,7 +131,7 @@ body {
 }
 
 .box-11 {
-  background-color: hsl(159, 75, 89);
+  background-color: hsl(159, 75%, 89%);
   width: 7%;
   height: 7%;
   color: white;
