@@ -33,10 +33,6 @@ body {
 
 
 
-.box-content {
-  font-size: 30px;
-}
-
 .box-1 {
   background-color: #333;
   width: 30.2%;
@@ -44,6 +40,7 @@ body {
   color: white;
   display: inline-block;
   position: relative;
+  font-size: 30px;
 }
 
 .box-2 {
@@ -53,6 +50,7 @@ body {
   color: white;
   display: inline-block;
   position: relative;
+  font-size: 30px;
 }
 
 .box-3 {
@@ -62,6 +60,7 @@ body {
   color: white;
   display: inline-block;
   position: relative;
+  font-size: 30px;
 }
 
 .box-4 {
@@ -111,6 +110,7 @@ body {
   display: inline-block;
   float: left;
   position: relative;
+  font-size: 30px;
 }
 
 .box-9 {
@@ -121,6 +121,7 @@ body {
   display: inline-block;
   vertical-align: top;
   position: relative;
+  font-size: 30px;
 }
 
 .box-10 {
@@ -131,6 +132,7 @@ body {
   display: inline-block;
   vertical-align: top;
   position: relative;
+  font-size: 30px;
 }
 
 .box-11 {
