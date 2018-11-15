@@ -52,6 +52,7 @@ body {
   display: inline-block;
   position: relative;
   font-size: 30px;
+  font-family: 'Bungee Shade', cursive;
 }
 
 .box-3 {
@@ -62,6 +63,7 @@ body {
   display: inline-block;
   position: relative;
   font-size: 30px;
+  font-family: 'Bungee Shade', cursive;
 }
 
 .box-4 {
@@ -72,6 +74,7 @@ body {
   display: inline-block;
   position: relative;
   font-size: 12px;
+  font-family: 'Bungee Shade', cursive;
 }
 
 .box-5 {
