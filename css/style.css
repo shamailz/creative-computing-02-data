@@ -45,7 +45,7 @@ body {
 }
 
 .box-2 {
-  background-color: #777;
+  background-color: hsl(302, 66%, 61%);
   width: 20.9%;
   height: 20.9%;
   color: white;
@@ -123,7 +123,7 @@ body {
 }
 
 .box-9 {
-  background-color: #777;
+  background-color: hsl(302, 43%, 49%);
   width: 20.9%;
   height: 20.9%;
   color: white;
