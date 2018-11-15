@@ -198,6 +198,10 @@ body {
 
 .row-1{
   background-color: white;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+  position: relative;
 }
 
 
