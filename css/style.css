@@ -37,7 +37,7 @@ body {
   vertical-align: top;
   position: relative;
   top: 150%;
-  left: 20%;
+  left: 10%;
   transform: translate(-50%,-50%);
   font-size: 30px;
 }
