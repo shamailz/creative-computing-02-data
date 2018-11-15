@@ -42,7 +42,7 @@ body {
   height: 30.2%;
   color: white;
   display: inline-block;
-  vertical-align: center;
+  border: 20px;
   position: relative;
 }
 
