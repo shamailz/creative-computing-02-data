@@ -48,7 +48,7 @@ body {
   background-color: hsl(302, 66%, 61%);
   width: 20.9%;
   height: 20.9%;
-  color: white;
+  color: black;
   display: inline-block;
   position: relative;
   font-size: 20px;
@@ -126,7 +126,7 @@ body {
   background-color: hsl(302, 43%, 49%);
   width: 20.9%;
   height: 20.9%;
-  color: white;
+  color: black;
   display: inline-block;
   vertical-align: top;
   position: relative;
