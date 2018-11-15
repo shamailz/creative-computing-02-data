@@ -92,7 +92,7 @@ body {
   background-color: hsl(87, 88%, 81%);
   width: 7%;
   height: 7%;
-  color: white;
+  color: black;
   display: inline-block;
   position: relative;
   font-size: 12px;
@@ -174,7 +174,7 @@ body {
   background-color: hsl(87, 41%, 67%);
   width: 7%;
   height: 7%;
-  color: white;
+  color: black;
   display: inline-block;
   vertical-align: top;
   position: relative;
