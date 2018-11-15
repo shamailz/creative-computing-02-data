@@ -15,7 +15,7 @@ body {
   height: 100vh;
   overflow: scroll;
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQYV2NkYGD4z8DAwMgABXAGlP8fJIBfBQCCwgQDl2D/zgAAAABJRU5ErkJggg==) repeat;
-  background-size: 400px;
+  background-repeat: 400px;
 }
 
 .content {
