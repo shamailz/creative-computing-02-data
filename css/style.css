@@ -200,7 +200,8 @@ body {
   background-color: white;
   width: 50%;
   height: 50%;
-  display: 300px;
+  margin-top: 350px;
+  margin-left: 20px;
   position: relative;
 }
 
