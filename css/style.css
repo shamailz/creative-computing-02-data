@@ -56,7 +56,7 @@ body {
 }
 
 .box-3 {
-  background-color: #555;
+  background-color: hsl(339, 89%, 65%);
   width: 25.6%;
   height: 25.6%;
   color: white;
@@ -135,7 +135,7 @@ body {
 }
 
 .box-10 {
-  background-color: #555;
+  background-color: hsl(338, 56% 53%);
   width: 25.6%;
   height: 25.6%;
   color: white;
