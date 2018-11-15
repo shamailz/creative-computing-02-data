@@ -34,7 +34,7 @@ body {
 
 
 .box-1 {
-  background-color: #333;
+  background-color: hsl(237, 96%, 66%);
   width: 30.2%;
   height: 30.2%;
   color: white;
@@ -104,7 +104,7 @@ body {
 }
 
 .box-8 {
-  background-color: #333;
+  background-color: hsl(237, 59%, 55%);
   width: 30.2%;
   height: 30.2%;
   color: white;
