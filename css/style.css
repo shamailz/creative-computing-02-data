@@ -34,6 +34,7 @@ body {
 
 .box-content {
   font-size: 30px;
+  border: 20px;
 }
 
 .box-1 {
@@ -42,7 +43,6 @@ body {
   height: 30.2%;
   color: white;
   display: inline-block;
-  border: 20px;
   position: relative;
 }
 
