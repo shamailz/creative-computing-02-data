@@ -18,17 +18,6 @@ body {
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQYV2NkYGD4z8DAwMgABXAGlP8fJIBfBQCCwgQDl2D/zgAAAABJRU5ErkJggg==) repeat;
   background-repeat: 400px;
 }
-@media screen and (min-width: 500px) {
-   body {
-      width:420px;
-   }
-}
-
-@media screen and (min-width: 800px) {
-   body {
-      width:100vw;
-   }
-}
 
 
 .content {
@@ -220,6 +209,19 @@ body {
   font-size: 20px;
   font-family: 'Kreon', serif;
 }
+
+@media screen and (min-width: 500px) {
+   body {
+      width:480px;
+   }
+}
+
+@media screen and (min-width: 800px) {
+   body {
+      width:1400px;
+   }
+}
+
 
 
 
