@@ -203,9 +203,10 @@ body {
   color: black;
   margin-top: 100px;
   margin-left: 10px;
-  position: center;
+  position: relative;
   font-size: 25px;
   font-family: 'Kreon', serif;
+  align-content: left;
 }
 
 
