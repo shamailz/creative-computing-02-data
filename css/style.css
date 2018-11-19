@@ -203,7 +203,7 @@ body {
   color: black;
   margin-top: 100px;
   margin-left: 20px;
-  position: relative;
+  position: left;
   font-size: 25px;
   font-family: 'Kreon', serif;
 }
